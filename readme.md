@@ -58,5 +58,5 @@ logo após a API faz todas as relações de dados necessárias.
 
 [laravel-shield]: https://img.shields.io/badge/LARAVEL-v5.8.38-orange
 [php-shield]: https://img.shields.io/badge/PHP-7.4.16-red
-[composer-shiel]: https://img.shields.io/badge/Composer-v2.0.9-red
+[composer-shield]: https://img.shields.io/badge/Composer-v2.0.9-red
 [Screenshot]: /screenshots/screenshot.png
