@@ -1,5 +1,5 @@
 ![Laravel][laravel-shield]
-![PHP][php-shield]]
+![PHP][php-shield]
 ![Composer][composer-shield]
 
 
