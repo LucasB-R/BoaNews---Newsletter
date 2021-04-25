@@ -41,7 +41,7 @@ logo após a API faz todas as relações de dados necessárias.
    php artisan migrate
    ```
 
-5. Vá em app/Mail/EnviaNewsMail na linha 43 altere o e-mail que será o remetente
+5. Vá em app/Mail/EnviaNewsMail na linha 42 altere o e-mail que será o remetente
 
 6. Inicie o Servidor!
 
