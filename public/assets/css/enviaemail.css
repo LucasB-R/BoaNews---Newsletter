@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200&family=Poppins:wght@200&display=swap');
+
+body{
+    font-family: 'Poppins', sans-serif; 
+}
+
+h3{
+    margin-top: 60px;
+    margin-bottom: 10px;
+}
+
+textarea{
+    margin-top: 0px; 
+    margin-bottom: 0px; 
+    height: 214px;
+}
+
+.voltar{
+    margin-top: 10px;
+    text-align: right;
+}
+
+.row .btn{
+  width: 100%;
+}
+
+.espaco{
+    margin-top: 10px;
+}
+
+.caixabotao{
+    position: absolute;
+        top: 0;
+        right: 0;
+}

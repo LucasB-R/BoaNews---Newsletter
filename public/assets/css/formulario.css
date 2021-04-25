@@ -1,0 +1,16 @@
+
+textarea{
+    width: 100%; 
+    height: 229px;
+    resize:none;
+}
+
+.form-control{
+    margin-top: 5px;
+}
+
+.botao{
+    margin-top: 5px;
+    width: 100%;
+}
+

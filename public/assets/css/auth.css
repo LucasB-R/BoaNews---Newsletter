@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200&family=Poppins:wght@200&display=swap');
+
+
+.meuContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 450px;
+    margin-top: 80px;
+}
+
+.Form p{
+    margin: 0 auto;
+    font-size: 15px;
+    font-weight: 600;
+    font-family: 'Poppins', sans-serif; 
+    padding-top: 10px;
+}
+
+
+.Form h3{
+    color: rgb(14, 147, 255);
+    font-family: 'Poppins', sans-serif; 
+}
+
+.Form .btn-primary{
+
+    width: 100%;
+
+}
+
+.Form label{
+    font-size: 15px;
+    font-weight: 600;
+    font-family: 'Poppins', sans-serif; 
+}

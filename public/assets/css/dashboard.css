@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200&family=Poppins:wght@200&display=swap');
+body{
+    overflow: hidden;
+}
+
+.container{
+    font-family: 'Poppins', sans-serif; 
+    margin-top: 60px;
+    max-width: 1000px;
+}
+
+
+.box{
+    padding-top: 15px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    box-sizing: border-box;
+    background-color: #ddd;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.criar{
+    text-align: right;
+    margin-bottom: 5px;
+}
+
