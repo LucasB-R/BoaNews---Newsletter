@@ -34,7 +34,7 @@ logo após a API faz todas as relações de dados necessárias.
    composer install
    ```
 
-3. Configure o arquivo .env corretamente com os dados do SMTP e QUEUE CONNECTION: database
+3. Configure o arquivo .env corretamente, coloque os dados do SMTP e deixe QUEUE CONNECTION: database
 
 4. Adicione as tabelas ao banco de dados
    ```sh
